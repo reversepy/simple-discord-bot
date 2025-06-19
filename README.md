@@ -2,8 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![Made by Reverse](https://img.shields.io/badge/Made%20by-Reverse-%23ff69b4)](https://github.com/yourusername)
-[![Discord](https://img.shields.io/discord/112233445566778899?label=Join%20Discord&logo=discord&color=5865F2)](https://discord.gg/nitrogang)
+[![Made by reverse](https://img.shields.io/badge/Made%20by-Reverse-%23ff69b4)](https://github.com/reversepy)
+[![Discord](https://img.shields.io/discord/1376577777524015105?label=Join%20Discord&logo=discord&color=5865F2)](https://discord.gg/nitrogang)
+
 
 
 A modular, beginner-friendly Discord bot written in Python using discord.py. Comes with cog support, environment variables, and basic commands to get started fast. Perfect for YouTube tutorials, personal bots, or open-source projects.
