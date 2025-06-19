@@ -15,7 +15,7 @@ bot = commands.Bot(command_prefix='.', intents=intents)
 @bot.event
 async def on_ready():
     print(f"Logged in as {bot.user}")
-    await bot.change_presence(activity=discord.Game(name="Made by Reverse"))
+    await bot.change_presence(activity=discord.Game(name="Made by Reverse | v.1.0"))
 
 # Basic commands
 @bot.command()
