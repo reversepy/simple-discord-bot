@@ -42,9 +42,8 @@ Command      | Description
 .reverse     | Reverses the provided message
 
 
-## 👨‍💻 Made By
+## 👨‍💻 Made By Reverse
 
-**Reverse**  
 YouTube tutorial coming soon  
 discord.gg/nitrogang for questions & support
 
