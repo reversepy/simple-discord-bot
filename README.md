@@ -4,7 +4,7 @@ A modular, beginner-friendly Discord bot written in Python using discord.py. Com
 
 ## 🚀 Features
 
-- ✅ Easy .env setup (via .env.example)
+- ✅ Easy .env setup
 - ✅ Starter commands: .ping, .reverse
 - ✅ Clean file structure and comments
 - ✅ Ready to deploy or expand
