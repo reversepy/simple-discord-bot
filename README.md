@@ -7,6 +7,7 @@
 
 
 
+
 A modular, beginner-friendly Discord bot written in Python using discord.py. Comes with cog support, environment variables, and basic commands to get started fast. Perfect for YouTube tutorials, personal bots, or open-source projects.
 
 ## 🚀 Features
