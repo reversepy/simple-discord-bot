@@ -21,9 +21,13 @@ A modular, beginner-friendly Discord bot written in Python using discord.py. Com
 
 discord-bot-template/
 ├── bot.py              # Main bot launcher
+
 ├── .env.example        # Example environment file
+
 ├── requirements.txt    # Python dependencies
+
 ├── README.md           # This file
+
 └── LICENSE             # MIT License
     
 
